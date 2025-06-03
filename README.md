@@ -19,6 +19,5 @@ cd elastic-search-tutorial/example-apps/search-tutorial/search-tutorial-starter
 
 2. Crear entorno virtual y activarlo
 
-```bash
 python -m venv venv
 .\venv\Scripts\activate
