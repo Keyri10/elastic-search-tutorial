@@ -17,3 +17,8 @@ Este proyecto es una aplicación web construida con Flask que se conecta a Elast
 git clone https://github.com/tu_usuario/elastic-search-tutorial.git
 cd elastic-search-tutorial/example-apps/search-tutorial/search-tutorial-starter
 
+2. Crear entorno virtual y activarlo
+
+```bash
+python -m venv venv
+.\venv\Scripts\activate
